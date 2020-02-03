@@ -1,0 +1,102 @@
+.divide{
+    min-height: 100vh;
+    display: flex;
+
+}
+
+.div1{
+    text-align: left;
+    width: 50%;
+    background-color: dimgray;
+    background-color: hsla(0, 0%, 13%, 0.7);
+
+}
+#Name{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-color: chocolate;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+
+}
+#email{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-color: chocolate;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+
+}
+
+#message{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-color: chocolate;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    padding: 10px;
+
+}
+.h{
+    font-size: 25px;
+    justify-content: space-between;
+    color: white;
+    text-align: center;
+
+
+}
+
+.p1{
+    font-size: 48px;
+    color: white;
+    text-align: center;
+}
+
+.p2{
+        color: white;
+    font-size: 25px;
+    text-align: center;
+
+}
+
+.mid_mid{
+    width: 35%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+}
+
+.mid1{
+    text-align: center;
+    background-color: hsla(340,100%, 97%,0.6);
+    padding: 000002px;
+    height: 53vh;
+    width: 100%;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    margin-left: 20%;
+    margin-top: 20%;
+
+
+
+}
+button{
+    background-color: chocolate;
+    color: white;
+    width: 50%;
+    height: 05vh;
+    font-size: 15px;
+    text-align: center;
+
+}
+
+body{
+    background-image: url("resources/design.jpg");
+}
+
