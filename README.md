@@ -5,3 +5,18 @@ This project demonstrates a simple authentication UI, styled with clean and mini
 
 ---
 
+
+---
+
+## 🎨 Features  
+
+- Clean and modern login form UI  
+- Responsive design (mobile, tablet, desktop)  
+- Input fields with validation styles  
+- "Remember Me" checkbox  
+- "Forgot Password?" link  
+- Customizable for sign-up and password reset  
+- JavaScript form validation 
+
+---
+
